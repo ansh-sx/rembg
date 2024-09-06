@@ -1,8 +1,9 @@
 Flask==2.3.2
-rembg==2.0.59  # latest version
+rembg==2.0.59
 Pillow==10.0.1
 numpy==1.24.2
 scipy==1.10.1
 onnxruntime==1.14.1
 tqdm==4.64.1
 pymatting==1.1.8
+setuptools>=58.0.0  # Ensures distutils is available
