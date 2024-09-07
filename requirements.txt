@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-rembg
-python-multipart
-Pillow
+fastapi==0.95.1
+uvicorn==0.22.0
+rembg==2.0.30
+python-multipart==0.0.6
+Pillow==9.1.0
