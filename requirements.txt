@@ -1,5 +1,2 @@
-fastapi
-uvicorn
-rembg
-python-multipart
-Pillow
+Flask==2.3.2
+ytmusicapi==0.26.0
